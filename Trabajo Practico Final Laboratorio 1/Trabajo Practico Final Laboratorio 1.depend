@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1654928891 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1654922338 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\clientes.h
+
+1655003908 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Menu.h"
+	<string.h>
+	"clientes.h"
+
+1655004938 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\archi.h
+	"clientes.h"
+
+1655005328 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"archi.h"
+	"clientes.h"
+	"Menu.h"
+	"consumos.h"
+
+1655005096 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Menu.h"
+	"clientes.h"
+	"archi.h"
+
+1654925324 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\menu.h
+
+1654930733 source:c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"archi.h"
+	"clientes.h"
+	"consumos.h"
+
+1654930733 c:\users\pc\desktop\programacion utn 2022\programacion y laboratorio 1\trabajos codeblocks\trabajo practico final laboratorio 1\consumos.h
+
+1655005328 source:c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\archi.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"archi.h"
+	"clientes.h"
+	"Menu.h"
+	"consumos.h"
+
+1655004938 c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\archi.h
+	"clientes.h"
+
+1654922338 c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\clientes.h
+
+1654925324 c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\menu.h
+
+1654930733 c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\consumos.h
+
+1655005698 source:c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"Menu.h"
+	<string.h>
+	"clientes.h"
+
+1654930733 source:c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"archi.h"
+	"clientes.h"
+	"consumos.h"
+
+1654928891 source:c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1655005096 source:c:\users\pc\desktop\proyectos comprimidos\trabajo practico final laboratorio 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Menu.h"
+	"clientes.h"
+	"archi.h"
+
